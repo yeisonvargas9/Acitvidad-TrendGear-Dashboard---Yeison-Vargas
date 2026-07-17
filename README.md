@@ -1,1 +1,0 @@
-# Acitvidad-TrendGear-Dashboard---Yeison-Vargas
