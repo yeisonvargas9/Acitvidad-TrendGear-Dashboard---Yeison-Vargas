@@ -1,0 +1,61 @@
+Customer ID,Name,Email,Product Purchased,Purchase Date,Amount Spent (USD),Age,City,Payment Method,Last Login Date,Membership Status
+TG-0001,Paula Hernandez,paula.hernandez1@mailinator.com,Auriculares Noise Cancel,2024-09-07,1857.75,16,Medellin,Credit Card,2025-04-23,Platinum
+TG-0002,Mateo Gomez,mateo.gomez2@mailinator.com,Laptop Pro 14,2025-06-01,558.32,24,Santa Marta,Debit Card,2026-04-05,Platinum
+TG-0003,Nicolas Castro,nicolas.castro3@mailinator.com,Auriculares Noise Cancel,2024-01-07,2026.43,48,Cucuta,PayPal,2026-02-22,Gold
+TG-0004,Isabella Perez,isabella.perez4@mailinator.com,Mouse Inalambrico Pro,2025-01-24,268.99,56,Bucaramanga,PayPal,2025-05-03,Bronze
+TG-0005,Felipe Castro,felipe.castro5@mailinator.com,Camara Web HD,2025-01-22,2433.19,28,Cartagena,PayPal,2025-04-12,Silver
+TG-0006,Carolina Martinez,carolina.martinez6@mailinator.com,Smartphone X200,2026-03-02,1658.24,18,Barranquilla,Credit Card,2026-05-15,Platinum
+TG-0007,Valeria Castro,valeria.castro7@mailinator.com,SSD Externo 1TB,2024-12-29,419.20,59,Cartagena,Credit Card,2025-07-31,Silver
+TG-0008,Julian Sanchez,julian.sanchez8@mailinator.com,Monitor 27 4K,2024-10-03,1163.72,33,Bucaramanga,Credit Card,2026-04-26,Silver
+TG-0009,Laura Rodriguez,laura.rodriguez9@mailinator.com,Parlante Bluetooth Max,2024-03-08,1011.89,53,Bucaramanga,Debit Card,2024-10-10,Platinum
+TG-0010,Renata Castro,renata.castro10@mailinator.com,Camara Web HD,2024-09-09,673.23,31,Cartagena,Bank Transfer,2026-04-06,Platinum
+TG-0011,Emiliano Sanchez,emiliano.sanchez11@mailinator.com,Laptop Pro 14,2024-04-03,1281.17,30,Medellin,Debit Card,2026-05-16,Silver
+TG-0012,Esteban Vargas,esteban.vargas12@mailinator.com,Camara Web HD,2025-09-02,971.15,21,Cartagena,Credit Card,2026-04-29,Bronze
+TG-0013,Diego Suarez,diego.suarez13@mailinator.com,Teclado Mecanico RGB,2024-12-14,1924.97,47,Cucuta,Debit Card,2025-04-07,Platinum
+TG-0014,Sofia Ramirez,sofia.ramirez14@mailinator.com,SSD Externo 1TB,2025-06-03,1908.48,77,Cartagena,Debit Card,2025-07-27,Silver
+TG-0015,Emiliano Gonzalez,emiliano.gonzalez15@mailinator.com,Smartphone X200,2025-05-15,1503.38,13,Bucaramanga,PayPal,2025-05-24,Silver
+TG-0016,Mateo Sanchez,mateo.sanchez16@mailinator.com,Smartphone X200,2025-05-12,227.85,23,Santa Marta,Debit Card,2026-07-03,Silver
+TG-0017,Diego Ortiz,diego.ortiz17@mailinator.com,Monitor 27 4K,2026-06-12,673.67,34,Santa Marta,Debit Card,2026-07-09,Gold
+TG-0018,Renata Rivera,renata.rivera18@mailinator.com,Monitor 27 4K,2025-04-07,2250.54,69,Barranquilla,Credit Card,2025-06-07,Gold
+TG-0019,Sofia Rojas,sofia.rojas19@mailinator.com,Cargador Rapido 65W,2024-01-08,1477.27,42,Bogota,Debit Card,2024-03-20,Bronze
+TG-0020,Natalia Rodriguez,natalia.rodriguez20@mailinator.com,SSD Externo 1TB,2024-08-31,191.08,55,Pereira,Debit Card,2025-06-12,Silver
+TG-0021,Felipe Rojas,felipe.rojas21@mailinator.com,Tablet Air 11,2025-04-29,618.85,73,Barranquilla,Credit Card,2026-06-16,Bronze
+TG-0022,Diego Vargas,diego.vargas22@mailinator.com,Cargador Rapido 65W,2025-04-23,1067.59,58,Bogota,Credit Card,2026-07-09,Bronze
+TG-0023,Renata Flores,renata.flores23@mailinator.com,Smartwatch Fit 3,2024-07-13,632.91,26,Cali,Bank Transfer,2026-01-13,Silver
+TG-0024,Valeria Castro,valeria.castro24@mailinator.com,Camara Web HD,2024-03-18,2188.10,44,Medellin,Credit Card,2025-06-14,Bronze
+TG-0025,Valentina Sanchez,valentina.sanchez25@mailinator.com,Tablet Air 11,2025-05-07,1024.94,34,Bogota,Debit Card,2025-08-24,Platinum
+TG-0026,Sofia Diaz,sofia.diaz26@mailinator.com,Teclado Mecanico RGB,2026-03-14,2317.40,46,Cucuta,Bank Transfer,2026-05-11,Silver
+TG-0027,Camila Torres,camila.torres27@mailinator.com,Laptop Pro 14,2025-08-16,2422.24,40,Bucaramanga,Credit Card,2026-05-20,Bronze
+TG-0028,Martina Ortiz,martina.ortiz28@mailinator.com,Laptop Pro 14,2025-06-27,2299.68,77,Santa Marta,Credit Card,2025-09-15,Silver
+TG-0029,Valentina Reyes,valentina.reyes29@mailinator.com,Smartphone X200,2024-08-28,1692.90,21,Manizales,Debit Card,2025-10-15,Bronze
+TG-0030,Alejandro Martinez,alejandro.martinez30@mailinator.com,Mouse Inalambrico Pro,2025-08-01,1648.57,66,Cartagena,Debit Card,2026-04-25,Gold
+TG-0031,Nicolas Ramirez,nicolas.ramirez31@mailinator.com,Smartwatch Fit 3,2025-10-22,340.23,63,Bucaramanga,Credit Card,2026-03-24,Bronze
+TG-0032,Antonella Reyes,antonella.reyes32@mailinator.com,Teclado Mecanico RGB,2024-08-06,197.05,25,Cali,PayPal,2026-01-06,Bronze
+TG-0033,Natalia Sanchez,natalia.sanchez33@mailinator.com,Camara Web HD,2025-03-24,723.19,60,Cartagena,Credit Card,2026-05-24,Gold
+TG-0034,Miguel Hernandez,miguel.hernandez34@mailinator.com,Cargador Rapido 65W,2026-06-30,672.20,30,Santa Marta,Debit Card,2026-07-03,Gold
+TG-0035,Samuel Reyes,samuel.reyes35@mailinator.com,SSD Externo 1TB,2024-07-27,1798.27,39,Cartagena,Bank Transfer,2026-06-30,Gold
+TG-0036,Natalia Rodriguez,natalia.rodriguez36@mailinator.com,Laptop Pro 14,2026-04-29,1591.20,24,Bogota,PayPal,2026-06-03,Silver
+TG-0037,Paula Ramirez,paula.ramirez37@mailinator.com,Tablet Air 11,2025-07-18,1856.96,33,Santa Marta,Credit Card,2026-07-14,Bronze
+TG-0038,Valentina Lopez,valentina.lopez38@mailinator.com,Auriculares Noise Cancel,2025-08-19,2088.97,17,Cucuta,Debit Card,2026-05-28,Bronze
+TG-0039,Samuel Rivera,samuel.rivera39@mailinator.com,Monitor 27 4K,2024-08-03,2248.83,18,Medellin,PayPal,2026-07-02,Platinum
+TG-0040,Alejandro Lopez,alejandro.lopez40@mailinator.com,Auriculares Noise Cancel,2026-03-30,2163.55,43,Cucuta,Credit Card,2026-07-11,Silver
+TG-0041,Felipe Flores,felipe.flores41@mailinator.com,Teclado Mecanico RGB,2026-06-03,2008.55,65,Cali,Credit Card,2026-06-18,Platinum
+TG-0042,David Rodriguez,david.rodriguez42@mailinator.com,Mouse Inalambrico Pro,2026-04-16,567.75,73,Cartagena,Debit Card,2026-06-13,Silver
+TG-0043,Sofia Perez,sofia.perez43@mailinator.com,Teclado Mecanico RGB,2026-06-04,830.73,64,Bucaramanga,Bank Transfer,2026-06-08,Gold
+TG-0044,Sofia Hernandez,sofia.hernandez44@mailinator.com,Smartphone X200,2024-09-28,458.74,46,Manizales,Bank Transfer,2024-11-06,Gold
+TG-0045,Felipe Flores,felipe.flores45@mailinator.com,Tablet Air 11,2025-06-07,1521.43,68,Manizales,Debit Card,2025-08-05,Gold
+TG-0046,Mateo Vargas,mateo.vargas46@mailinator.com,SSD Externo 1TB,2026-04-05,1307.00,13,Barranquilla,PayPal,2026-06-12,Platinum
+TG-0047,Valentina Flores,valentina.flores47@mailinator.com,Teclado Mecanico RGB,2024-05-07,1663.52,53,Santa Marta,PayPal,2026-05-14,Platinum
+TG-0048,Luciana Diaz,luciana.diaz48@mailinator.com,SSD Externo 1TB,2024-07-15,1392.72,50,Cucuta,Debit Card,2025-09-18,Gold
+TG-0049,Renata Suarez,renata.suarez49@mailinator.com,Parlante Bluetooth Max,2024-08-03,770.13,13,Manizales,PayPal,2025-10-17,Platinum
+TG-0050,Antonella Castro,antonella.castro50@mailinator.com,Cargador Rapido 65W,2026-03-23,1285.27,40,Cali,Credit Card,2026-07-16,Gold
+TG-0051,Daniela Reyes,daniela.reyes51@mailinator.com,SSD Externo 1TB,2026-02-08,247.07,55,Cartagena,Debit Card,2026-04-09,Silver
+TG-0052,Isabella Gomez,isabella.gomez52@mailinator.com,Smartphone X200,2025-05-01,623.43,18,Pereira,Bank Transfer,2026-03-09,Silver
+TG-0053,Carolina Diaz,carolina.diaz53@mailinator.com,Cargador Rapido 65W,2024-05-31,1008.14,76,Bogota,Credit Card,2026-04-02,Platinum
+TG-0054,Nicolas Gonzalez,nicolas.gonzalez54@mailinator.com,Smartwatch Fit 3,2024-09-12,139.79,72,Cali,Bank Transfer,2025-01-14,Gold
+TG-0055,Manuela Castro,manuela.castro55@mailinator.com,Auriculares Noise Cancel,2025-07-15,1075.45,77,Pereira,Bank Transfer,2026-02-28,Gold
+TG-0056,Manuela Sanchez,manuela.sanchez56@mailinator.com,SSD Externo 1TB,2025-06-17,1918.05,48,Barranquilla,PayPal,2026-02-20,Platinum
+TG-0057,Valentina Torres,valentina.torres57@mailinator.com,Smartphone X200,2024-11-23,690.21,43,Cali,Debit Card,2026-05-30,Silver
+TG-0058,Renata Lopez,renata.lopez58@mailinator.com,Camara Web HD,2025-02-21,174.61,40,Pereira,Bank Transfer,2025-08-09,Bronze
+TG-0059,Camila Vargas,camila.vargas59@mailinator.com,Parlante Bluetooth Max,2025-08-21,2263.52,62,Cucuta,Bank Transfer,2025-08-31,Bronze
+TG-0060,Emiliano Torres,emiliano.torres60@mailinator.com,Camara Web HD,2026-05-05,2135.82,62,Santa Marta,Debit Card,2026-06-27,Platinum
